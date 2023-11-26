@@ -67,31 +67,31 @@ class Header extends HTMLElement {
                                            
                                         </li>
                                         <li>
-                                            <a href="bed_details.html">B.Ed.course</a>
+                                            <a href="index.html">B.Ed.course</a>
                                            
                                         </li>
                                     
                                         
                                         <li>
-                                            <a href="admission.html">Admission</a>
+                                            <a href="index.html">Admission</a>
                                            
                                         </li>
 
                                         <li>
-                                            <a href="gallery.html">Gallary</a>
+                                            <a href="index.html">Gallary</a>
                                            
                                         </li>
                                          <li>
                                             <a href="#">College Details</a>
                                             <ul class="submenu">
                                                 <li>
-                                                    <a href="infrastructure.html">Infrastructure</a>
+                                                    <a href="index.html">Infrastructure</a>
                                                 </li>
                                                 <li>
-                                                    <a href="events.html">Events</a>
+                                                    <a href="index.html">Events</a>
                                                 </li>
                                                 <li>
-                                                    <a href="facilities.html">facilities</a>
+                                                    <a href="index.html">facilities</a>
                                                 </li>
                                               
                                             </ul>
