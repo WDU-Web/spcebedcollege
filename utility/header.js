@@ -10,31 +10,33 @@ class Header extends HTMLElement {
             <!-- header-top -->
             <div class="header-top primary-bg">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-md-6 col-12">
-                            <div class="header-contact-info d-flex">
-                                <div class="header-contact header-contact-phone">
-                                    <span class="ti-headphone"></span>
-                                    <p class="phone-number">+91-8073992659</p>
-                                </div>
-                                <div class="header-contact header-contact-email">
-                                    <span class="ti-email"></span>
-                                    <p class="email-name">spcebedcollge@gmail.com</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                            <div class="header-social-icon-list">
-                                <ul>
-                                    <li><a href="#"><span class="ti-facebook"></span></a></li>
-                                    <li><a href="#"><span class="ti-twitter-alt"></span></a></li>
-                                    <li><a href="#"><span class="ti-dribbble"></span></a></li>
-                                    <li><a href="#"><span class="ti-google"></span></a></li>
-                                    <li><a href="#"><span class="ti-pinterest"></span></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
+
+                <div class="header-top">
+                <div class="row">
+                <div class="col-sm">
+                <center>
+                <br>&nbsp;
+                <h4 style="color:white"> <b> Sri Parshwanth College of Education</b></h4>
+                </center> 
+                </div>
+              
+                  <div class="col-sm">
+                  <center>
+                  <img src="img/logo/logo.jpg" alt="bedCollegeLogo">
+                  </center>  
+              
+                      </div>
+                      <div class="col-sm">
+                      <center>
+                      <br>&nbsp;
+                    <h5 style="color:white"> <b>Sri Venkat Women’s Educational </b></h5>
+                    <h6 style="color:white">Rural Urban Development</h6>
+                    <h6 style="color:white"> Society, Chitradurga</h6>
+
+                </center>  
+                      </div>
+                  </div>		
+              </div>
                 </div>
             </div>
             <!-- /end header-top -->
@@ -48,7 +50,6 @@ class Header extends HTMLElement {
                                  <img src="img/logo/logo.png" alt="">
 
                                 </a> -->
-                                <b>Sri Parshwanth College of Education </b>
                             </div>
                         </div>
                         <div class="col-xl-10 col-lg-10 col-md-6 col-6">
